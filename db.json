@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "name": "Frozen yoghurt",
+      "calories": 159,
+      "fat": 6,
+      "carbs": 24,
+      "protein": 4
+    },
+    {
+      "name": "Ice cream sandwich",
+      "calories": 119,
+      "fat": 4,
+      "carbs": 14,
+      "protein": 8
+    },
+    {
+      "name": "Eclair",
+      "calories": 80,
+      "fat": 45,
+      "carbs": 24,
+      "protein": 18
+    },
+    {
+      "name": "Cupcake",
+      "calories": 110,
+      "fat": 80,
+      "carbs": 54,
+      "protein": 15
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
